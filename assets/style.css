@@ -1,0 +1,39 @@
+.st-emotion-cache-j5r0tf {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #E5E5E5;
+}
+
+.diagnosis {
+    color: #ffff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+}
+
+.diagnosis.benign {
+    background-color: #52b788;
+}
+
+.diagnosis.malignant {
+    background-color: #EE6055;
+}
+
+.st-emotion-cache-j5r0tf {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #E5E5E5;
+}
+
+.experience{
+    color: #ffff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+}
+
+.experience.inpatient{
+    background-color: #1E3888;
+}
+
+.experience.outpatient{
+    background-color: #DDC67B;
+}
